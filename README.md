@@ -12,3 +12,6 @@ Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 - [Zion AI Threat Intel](https://ziontechgroup.com/zion-ai-threat-intel/)
 - [Zion AI Contract Review](https://ziontechgroup.com/zion-ai-contract-review/)
 - [Zion AI Legal Ops](https://ziontechgroup.com/zion-ai-legal-ops/)
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
