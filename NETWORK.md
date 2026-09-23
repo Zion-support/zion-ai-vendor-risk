@@ -1,10 +1,11 @@
-# Zion AI Vendor Risk
+# 🔗 Zion App Network
 
-Third-party risk assessments and monitoring.
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-vendor-benchmark-exchange](https://github.com/Zion-support/zion-ai-vendor-benchmark-exchange) · [zion-vendor-lockin-score](https://github.com/Zion-support/zion-vendor-lockin-score) · [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) · [zion-ai-compliance-monitor](https://github.com/Zion-support/zion-ai-compliance-monitor)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [ai-vendor-comparator](https://github.com/Zion-support/ai-vendor-comparator) · [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) · [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement)
